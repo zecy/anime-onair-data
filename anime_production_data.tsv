@@ -2,7 +2,7 @@ id	tid	title	company	business
 1	38824	鍵姫物語　永久アリス輪舞曲（ロンド）	日本出版販売	books wholesaler
 2	38824	鍵姫物語　永久アリス輪舞曲（ロンド）	ランティス	record company
 3	38824	鍵姫物語　永久アリス輪舞曲（ロンド）	アミューズソフトエンタテインメント株式会社	video producer
-4	38824	鍵姫物語　永久アリス輪舞曲（ロンド）	TRINET ENTERTAINMENT	anime producer
+4	38824	鍵姫物語　永久アリス輪舞曲（ロンド）	TRINET ENTERTAINMENT	anime production
 5	38824	鍵姫物語　永久アリス輪舞曲（ロンド）	Picture Magic	anime maker
 6	38811	マジカノ	GDH	anime production
 7	38811	マジカノ	東京キッズ	anime maker
@@ -40,7 +40,7 @@ id	tid	title	company	business
 44	357200	Soul Link	東京電化	disk maker
 45	357300	吉永さん家のガーゴイル	ENTERBRAIN	publishing company
 46	357300	吉永さん家のガーゴイル	Avex Entertainment	record company
-47	357300	吉永さん家のガーゴイル	TRINET ENTERTAINMENT	anime producer
+47	357300	吉永さん家のガーゴイル	TRINET ENTERTAINMENT	anime production
 48	357300	吉永さん家のガーゴイル	ハピネット	goods wholesale
 49	39012	涼宮ハルヒの憂鬱	角川書店	publishing company
 50	39012	涼宮ハルヒの憂鬱	角川映画	film producer
@@ -254,7 +254,7 @@ id	tid	title	company	business
 263	358300	UG☆アルティメットガール	PONY CANYON	video producer
 264	358600	こみっくパーティーRevolution	AQUAPLUS	game company
 266	358700	IZUMO -猛き剣の閃記-	アミューズソフトエンタテインメント	video producer
-267	358700	IZUMO -猛き剣の閃記-	TRINET ENTERTAINMENT	anime producer
+267	358700	IZUMO -猛き剣の閃記-	TRINET ENTERTAINMENT	anime production
 268	358700	IZUMO -猛き剣の閃記-	エムアンドアイアートシステム	art auction
 269	358700	IZUMO -猛き剣の閃記-	トラフィックプロモーション	exhibition curation
 271	358800	バジリスク〜甲賀忍法帖〜	GONZO	anime maker
@@ -267,7 +267,7 @@ id	tid	title	company	business
 278	63450	流奇譚Ｘ	Softgarage	goods producer
 279	45707	こいこい７　Koi Koi Seven	日本出版販売	books wholesaler
 280	45707	こいこい７　Koi Koi Seven	アミューズソフトエンタテインメント	video producer
-281	45707	こいこい７　Koi Koi Seven	TRINET ENTERTAINMENT	anime producer
+281	45707	こいこい７　Koi Koi Seven	TRINET ENTERTAINMENT	anime production
 282	33583	英國戀物語エマ（英國戀物語エマ(1)）	TBS	tv station
 283	33583	英國戀物語エマ（英國戀物語エマ(1)）	ぴえろ	anime maker
 284	33583	英國戀物語エマ（英國戀物語エマ(1)）	東芝エンタテインメント	video producer
@@ -296,7 +296,7 @@ id	tid	title	company	business
 307	38622	はっぴぃセブン～ざ・テレビまんが～	日本出版販売	books wholesaler
 308	38622	はっぴぃセブン～ざ・テレビまんが～	アミューズソフトエンタテインメント	video producer
 309	38622	はっぴぃセブン～ざ・テレビまんが～	長良プロダクション	talent management
-310	38622	はっぴぃセブン～ざ・テレビまんが～	TRINET ENTERTAINMENT	anime producer
+310	38622	はっぴぃセブン～ざ・テレビまんが～	TRINET ENTERTAINMENT	anime production
 311	38642	灼眼のシャナ(1)	NBCユニバーサル・エンターテイメントジャパン	video producer
 312	38642	灼眼のシャナ(1)	東芝エンタテインメント	video producer
 313	38642	灼眼のシャナ(1)	メディアファクトリー	publishing company
